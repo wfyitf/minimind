@@ -2,3 +2,5 @@
 /dataset
 /out
 notebook/test.ipynb
+*.jsonl
+dataset/pretrain_hq.jsonl
